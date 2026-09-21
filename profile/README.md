@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="/assets/logo.png" alt="Babintech Logo" width="280"/>
+  <img src="/assets/logo-icon.jpg" alt="Babintech Logo" width="180"/>
 
 # Babintech
 
