@@ -54,15 +54,18 @@ değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde payla
   <tr>
     <td align="center" width="200">
       <img src="/assets/efe.jpg" width="120" height="120" style="border-radius: 50%;" alt="Efe Can Kara"/><br />
-      <b>Efe Can Kara</b>
+      <b>Efe Can Kara</b><br />
+      <sub>Co-founder</sub>
     </td>
     <td align="center" width="200">
       <img src="/assets/yigit.jpg" width="120" height="120" style="border-radius: 50%;" alt="Yiğit Altundağ"/><br />
-      <b>Yiğit Altundağ</b>
+      <b>Yiğit Altundağ</b><br />
+      <sub>Co-founder</sub>
     </td>
     <td align="center" width="200">
       <img src="/assets/mehmet.jpg" width="120" height="120" style="border-radius: 50%;" alt="Mehmet Yıldız"/><br />
-      <b>Mehmet Yıldız</b>
+      <b>Mehmet Yıldız</b><br />
+      <sub>Co-founder</sub>
     </td>
   </tr>
 </table>
