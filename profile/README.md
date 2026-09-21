@@ -8,8 +8,9 @@
 
 ---
 
-[![Alan](https://img.shields.io/badge/Alan-Yapay%20Zeka%20%26%20Derin%20Öğrenme-00599C?style=flat-square)](https://github.com)
-[![Odak](https://img.shields.io/badge/Odak-Optimizasyon%20%26%20Algoritma-green?style=flat-square)](https://github.com)
+[![Alan](https://img.shields.io/badge/Alan-AI%20Engineering-00599C?style=flat-square)](https://github.com)
+[![Çalışma](https://img.shields.io/badge/Çalışma-Machine%20Learning-green?style=flat-square)](https://github.com)
+[![Gelişim](https://img.shields.io/badge/Gelişim-Research%20%E2%86%92%20Engineering%20%E2%86%92%20Product-6f42c1?style=flat-square)](https://github.com)
 
 </div>
 
@@ -17,24 +18,61 @@
 
 ### Biz kimiz?
 
-**KAYA Intelligence**, üç kurucu tarafından yürütülen bağımsız bir yapay zeka mühendisliği ekibidir. Birlikte fikir üretir, farklı AI/ML problemlerini deneyerek öğrenir ve uygun fikirleri gerçek, profesyonel projelere dönüştürürüz.
+**KAYA Intelligence**, üç eşit kurucudan oluşan gelişmekte olan bağımsız bir AI
+engineering ekibidir. Birlikte fikir üretir, AI/ML problemlerini araştırır,
+farklı teknolojileri öğrenir ve fikirleri çalışan sistemlere dönüştürürüz.
+Başarılı sonuçları, uygun olduğunda profesyonel projelere veya ürünlere
+taşımayı hedefleriz.
 
-Uzun vadeli yönümüz öğrenme ve proje ekibinden herkese açık portföy ve açık kaynak projelere, oradan profesyonel yapay zeka mühendisliği ekibine ve gerektiğinde ürünlere doğru ilerlemektir. Bu aşamalar katı değildir; fırsatlara ve projelere göre evriliriz.
+Gelişim yönümüz kabaca **Learning / Project Team**'den **Public Portfolio /
+Open Source** çalışmalarına, oradan **Professional AI Engineering Team**'e ve
+**Products / Commercial Work**'e doğru ilerler. Bu bir şirket yol haritası
+değildir; organizasyon fırsatlara, projelere ve ekip gelişimine göre evrilir.
 
 ### Çalışma prensiplerimiz
 
-Öğrenme · Merak · Kalite · Deneysellik · Yapıcı Teknik Eleştiri · Profesyonellik · Keyifli Geliştirme Süreci · Bilgi Alışverişi
+Öğrenme · Merak · Kalite · Deneysellik · Yapıcı Teknik Eleştiri · Profesyonellik
 
-Sabit teknik rollere ayrılmayız. Araştırma, makine öğrenmesi geliştirme, arka uç, test, dokümantasyon, dağıtım ve MLOps sorumlulukları projeye ve aşamaya göre değişir. Bir kişi birincil sorumlu olabilir; kazanılan bilgi ekip içinde paylaşılır.
+Sabit teknik rollere ayrılmayız. Research, model development, backend, testing,
+documentation, deployment ve MLOps sorumlulukları projeye ve mevcut kapasiteye
+göre değişebilir. Belirli aşamalarda bir kişi primary ownership üstlenebilir;
+diğer üyeler review veya support sağlayabilir. Sonraki projelerde sorumluluklar
+değişir ve bilgi ekip içerisinde paylaşılır.
 
-### Proje seviyelerimiz
+**Individual ownership, collective knowledge.**
 
-- **Temel:** Temel becerileri geliştiren küçük çalışmalar.
-- **Deney:** Bir yöntem, teknoloji, model veya hipotezi test eden deneyler.
-- **Proje:** Testleri, dokümantasyonu, mimarisi ve yeniden üretilebilirliği olan
+### Proje yaşam döngümüz
+
+- **Foundation:** Python, SQL, Git, Linux, algorithms ve testing gibi temel
+  engineering becerilerini korumak ve geliştirmek için küçük çalışmalar.
+- **Experiment:** Yeni bir teknoloji, model, yöntem veya hipotezi kısa sürede
+  test etmek. Başarısız sonuçlar da öğrenme çıktısıdır.
+- **Project:** Uygun olduğu ölçüde documentation, reproducibility, testing,
+  architecture, experiments, evaluation, results ve limitations içeren
   profesyonel çalışmalar.
-- **Ürün:** Gerçek kullanıcı veya problemi hedefleyen; dağıtım, izleme, güvenlik,
-  maliyet ve ölçeklenebilirlik gerektiren sistemler.
+- **Product:** Gerçek bir kullanıcı veya probleme yönelik; gerektiğinde
+  deployment, monitoring, scalability, security, cost, user feedback ve
+  commercial considerations içeren sistemler.
+
+### Engineering Principles
+
+- **Learn by building:** Öğrenmeyi çalışan örnekler üreterek destekleriz.
+- **Understand before automating:** Otomatikleştirmeden önce problemi ve
+  kullandığımız araçları anlamaya çalışırız.
+- **Challenge ideas, not people:** Fikirleri sorgular, kişileri değil.
+- **Document what matters:** Tekrar kullanılabilirlik ve ekip içi aktarım için
+  önemli kararları ve sonuçları belgeleriz.
+- **Failures are data:** Başarısız denemeleri de öğrenme verisi olarak görürüz.
+- **Quality over unnecessary complexity:** Gereksiz karmaşıklık yerine anlaşılır
+  ve sürdürülebilir çözümleri tercih ederiz.
+
+### AI-Assisted Development
+
+LLM kullanımı yasak değildir; ancak önce problemi anlamaya, sonra AI çıktısını
+doğrulamaya çalışırız: **Düşün → Dene → Sor → Doğrula → Açıkla**. AI-assisted
+kod test edilmeli ve katkıyı yapan kişi tarafından açıklanabilmelidir.
+Anlaşılmayan kod merge edilmez. Bazı learning veya challenge çalışmaları
+AI-free olabilir.
 
 ---
 
@@ -66,19 +104,19 @@ Sabit teknik rollere ayrılmayız. Araştırma, makine öğrenmesi geliştirme, 
 
 ---
 
-### 🔬 Çalıştığımız alanlar
+### Çalıştığımız / Keşfettiğimiz Alanlar
 
-- **Algoritmik Optimizasyon ve Karmaşıklık Analizi:** Zaman ve alan
-  karmaşıklığı optimize edilmiş yapılar, çizge ve ağ algoritmaları, ileri
-  düzey algoritmik problem çözümü.
-- **Derin Öğrenme ve Sinir Ağı Mimarileri:** Derin sinir ağı mimarileri, model
-  eğitimi, hiperparametre optimizasyonu ve MLOps süreç hatları.
-- **Sistem Otomasyonu ve Veri Mühendisliği:** Uçtan uca veri işleme, veri akış
-  mimarileri ve yapay zeka sistem otomasyonları.
+Şu an üzerinde çalıştığımız ve keşfettiğimiz alanlar zaman içinde
+genişleyebilir:
 
-Büyük dil modeli kullanımı serbesttir ancak insan düşüncesinin yerine geçmez.
-Yaklaşımımız: **Düşün → Dene → Sor → Doğrula → Açıkla**. Yapay zeka destekli
-kodu anlamadan, test etmeden veya açıklayamadan birleştirmeyiz.
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- AI Engineering
+- ML Backend Systems
+- MLOps
+- Data Engineering
+- Model Research & Evaluation
 
 ---
 
