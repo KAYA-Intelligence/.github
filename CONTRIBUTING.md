@@ -1,6 +1,6 @@
 # Katkı Rehberi
 
-KAYA Intelligence'ta katkı yalnızca kod yazmak değildir. Research, mimari,
+Babintech'te katkı yalnızca kod yazmak değildir. Research, mimari,
 geliştirme, test, deployment, dokümantasyon, proje yönetimi ve iletişim de
 katkıdır.
 

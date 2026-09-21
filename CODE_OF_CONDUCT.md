@@ -1,6 +1,6 @@
 # Davranış Kuralları
 
-KAYA Intelligence'ta öğrenmeyi, merakı, kaliteyi, deneyi, yapıcı teknik
+Babintech'te öğrenmeyi, merakı, kaliteyi, deneyi, yapıcı teknik
 eleştiriyi, profesyonelliği, sürecin keyfini ve bilgi paylaşımını destekleriz.
 
 ## Beklentilerimiz

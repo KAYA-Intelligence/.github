@@ -1,6 +1,6 @@
-# KAYA Intelligence — Organizasyon Rehberi
+# Babintech — Organizasyon Rehberi
 
-KAYA Intelligence, üç kurucu tarafından yürütülen bağımsız bir AI engineering
+Babintech, üç kurucu tarafından yürütülen bağımsız bir AI engineering
 ekibidir. Bu repository, organizasyon profilinin yanı sıra ekip çalışma
 prensiplerini ve ortak GitHub süreçlerini barındırır.
 

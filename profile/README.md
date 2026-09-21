@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="/assets/logo.png" alt="KAYA Intelligence Logo" width="280"/>
+  <img src="/assets/logo.png" alt="Babintech Logo" width="280"/>
 
-# KAYA Intelligence
+# Babintech
 
 **Kararlı Algoritmalar, Yenilikçi Analiz.**
 
@@ -18,7 +18,7 @@
 
 ### Biz kimiz?
 
-**KAYA Intelligence**, üç eşit kurucudan oluşan gelişmekte olan bağımsız bir AI
+**Babintech**, üç eşit kurucudan oluşan gelişmekte olan bağımsız bir AI
 engineering ekibidir. Birlikte fikir üretir, AI/ML problemlerini araştırır,
 farklı teknolojileri öğrenir ve fikirleri çalışan sistemlere dönüştürürüz.
 Başarılı sonuçları, uygun olduğunda profesyonel projelere veya ürünlere
@@ -122,6 +122,6 @@ genişleyebilir:
 
 <div align="center">
 
-<sub>© 2026 <b>KAYA Intelligence</b>. Tüm hakları saklıdır.</sub>
+<sub>© 2026 <b>Babintech</b>. Tüm hakları saklıdır.</sub>
 
 </div>
