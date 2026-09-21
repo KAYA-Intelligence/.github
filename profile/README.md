@@ -18,65 +18,72 @@
 
 ### Biz kimiz?
 
-**Babintech**, üç eşit kurucudan oluşan gelişmekte olan bağımsız bir AI
+**Babintech**, üç eşit kurucudan oluşan, gelişmekte olan bağımsız bir AI
 engineering ekibidir. Birlikte fikir üretir, AI/ML problemlerini araştırır,
-farklı teknolojileri öğrenir ve fikirleri çalışan sistemlere dönüştürürüz.
-Başarılı sonuçları, uygun olduğunda profesyonel projelere veya ürünlere
+farklı teknolojileri öğrenir ve fikirlerimizi çalışan sistemlere dönüştürürüz.
+Başarılı çalışmalarımızı, uygun olduğunda profesyonel projelere veya ürünlere
 taşımayı hedefleriz.
 
 Gelişim yönümüz kabaca **Learning / Project Team**'den **Public Portfolio /
-Open Source** çalışmalarına, oradan **Professional AI Engineering Team**'e ve
-**Products / Commercial Work**'e doğru ilerler. Bu bir şirket yol haritası
-değildir; organizasyon fırsatlara, projelere ve ekip gelişimine göre evrilir.
+Open Source** çalışmalarına, ardından **Professional AI Engineering Team**'e ve
+**Products / Commercial Work**'e doğru ilerler. Bu, sabit bir şirket yol
+haritası değildir; Babintech fırsatlara, projelere ve ekibin gelişimine göre
+şekillenir.
 
-### Çalışma prensiplerimiz
+### Çalışma Şeklimiz
 
 Öğrenme · Merak · Kalite · Deneysellik · Yapıcı Teknik Eleştiri · Profesyonellik
 
 Sabit teknik rollere ayrılmayız. Research, model development, backend, testing,
-documentation, deployment ve MLOps sorumlulukları projeye ve mevcut kapasiteye
-göre değişebilir. Belirli aşamalarda bir kişi primary ownership üstlenebilir;
+documentation, deployment ve MLOps sorumlulukları projeye ve mevcut kapasitemize
+göre değişebilir. Belirli aşamalarda bir kişi primary ownership üstlenirken
 diğer üyeler review veya support sağlayabilir. Sonraki projelerde sorumluluklar
-değişir ve bilgi ekip içerisinde paylaşılır.
+değişir ve edinilen bilgi ekip içinde paylaşılır.
 
 **Individual ownership, collective knowledge.**
 
-### Proje yaşam döngümüz
+### Proje Yaşam Döngümüz
 
 - **Foundation:** Python, SQL, Git, Linux, algorithms ve testing gibi temel
-  engineering becerilerini korumak ve geliştirmek için küçük çalışmalar.
+  engineering becerilerini korumak ve geliştirmek için yaptığımız küçük
+  çalışmalar.
 - **Experiment:** Yeni bir teknoloji, model, yöntem veya hipotezi kısa sürede
-  test etmek. Başarısız sonuçlar da öğrenme çıktısıdır.
+  test ettiğimiz çalışmalar. Başarısız sonuçları da öğrenme sürecinin bir
+  parçası olarak görürüz.
 - **Project:** Uygun olduğu ölçüde documentation, reproducibility, testing,
   architecture, experiments, evaluation, results ve limitations içeren
   profesyonel çalışmalar.
-- **Product:** Gerçek bir kullanıcı veya probleme yönelik; gerektiğinde
+- **Product:** Gerçek bir kullanıcıya veya probleme yönelik; gerektiğinde
   deployment, monitoring, scalability, security, cost, user feedback ve
   commercial considerations içeren sistemler.
 
-### Engineering Principles
+### Prensiplerimiz
 
-- **Learn by building:** Öğrenmeyi çalışan örnekler üreterek destekleriz.
-- **Understand before automating:** Otomatikleştirmeden önce problemi ve
+- **Geliştirerek Öğrenme:** Öğrenmeyi çalışan örnekler üreterek destekleriz.
+- **Otomasyondan Önce Kavrama:** Otomatikleştirmeden önce problemi ve
   kullandığımız araçları anlamaya çalışırız.
-- **Challenge ideas, not people:** Fikirleri sorgular, kişileri değil.
-- **Document what matters:** Tekrar kullanılabilirlik ve ekip içi aktarım için
-  önemli kararları ve sonuçları belgeleriz.
-- **Failures are data:** Başarısız denemeleri de öğrenme verisi olarak görürüz.
-- **Quality over unnecessary complexity:** Gereksiz karmaşıklık yerine anlaşılır
+- **Fikirlere Eleştirel Yaklaşım:** Fikirleri sorgularız, kişileri değil.
+- **Dokümantasyon:** Tekrar kullanılabilirlik ve ekip içi bilgi
+  aktarımı için önemli kararları ve sonuçları belgeleriz.
+- **Başarısızlıklar Veridir:** Başarısız denemeleri de öğrenme verisi olarak
+  görürüz.
+- **Gereksiz Karmaşıklıktan Kaçınma:** Gereksiz karmaşıklık yerine anlaşılır
   ve sürdürülebilir çözümleri tercih ederiz.
 
-### AI-Assisted Development
+### Geliştirme Sürecinde AI
 
-LLM kullanımı yasak değildir; ancak önce problemi anlamaya, sonra AI çıktısını
-doğrulamaya çalışırız: **Düşün → Dene → Sor → Doğrula → Açıkla**. AI-assisted
-kod test edilmeli ve katkıyı yapan kişi tarafından açıklanabilmelidir.
-Anlaşılmayan kod merge edilmez. Bazı learning veya challenge çalışmaları
-AI-free olabilir.
+LLM kullanımı yasak değildir; ancak önce problemi anlamaya, ardından AI çıktısını
+doğrulamaya çalışırız:
+**Düşün → Dene → Sor → Doğrula → Açıkla**
+
+AI yardımlı kod test edilmeli ve katkıyı yapan kişi tarafından
+açıklanabilmelidir.
+Anlamadığımız kodu merge etmeyiz. Bazı learning veya challenge çalışmalarını ise
+AI kullanmadan yürütebiliriz.
 
 ---
 
-### 👨‍💻 Çekirdek Ekip
+### Çekirdek Ekip
 
 <div align="center">
 
@@ -106,7 +113,7 @@ AI-free olabilir.
 
 ### Çalıştığımız / Keşfettiğimiz Alanlar
 
-Şu an üzerinde çalıştığımız ve keşfettiğimiz alanlar zaman içinde
+Şu anda üzerinde çalıştığımız ve keşfettiğimiz alanlar zaman içinde
 genişleyebilir:
 
 - Machine Learning
