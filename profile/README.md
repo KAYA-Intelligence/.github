@@ -15,32 +15,26 @@
 
 ---
 
-### 📌 Biz kimiz?
+### Biz kimiz?
 
-**KAYA Intelligence**, üç eşit kurucu tarafından yürütülen bağımsız bir AI
-engineering ekibidir. Birlikte fikir üretir, farklı AI/ML problemlerini
-deneyerek öğrenir ve uygun fikirleri gerçek, profesyonel projelere dönüştürürüz.
+**KAYA Intelligence**, üç kurucu tarafından yürütülen bağımsız bir yapay zeka mühendisliği ekibidir. Birlikte fikir üretir, farklı AI/ML problemlerini deneyerek öğrenir ve uygun fikirleri gerçek, profesyonel projelere dönüştürürüz.
 
-Uzun vadeli yönümüz Learning/Project Team'den public portfolio ve open
-source'a, oradan profesyonel AI engineering team ve gerektiğinde ürünlere
-doğru ilerlemektir. Bu aşamalar katı değildir; fırsatlara ve projelere göre
-evriliriz.
+Uzun vadeli yönümüz öğrenme ve proje ekibinden herkese açık portföy ve açık kaynak projelere, oradan profesyonel yapay zeka mühendisliği ekibine ve gerektiğinde ürünlere doğru ilerlemektir. Bu aşamalar katı değildir; fırsatlara ve projelere göre evriliriz.
 
-### 🧭 Çalışma prensiplerimiz
+### Çalışma prensiplerimiz
 
 Öğrenme · Merak · Kalite · Deneysellik · Yapıcı Teknik Eleştiri · Profesyonellik · Keyifli Geliştirme Süreci · Bilgi Alışverişi
 
-Sabit teknik rollere ayrılmayız. Research, ML development, backend, testing,
-documentation, deployment ve MLOps sorumlulukları projeye ve aşamaya göre
-değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde paylaşılır.
+Sabit teknik rollere ayrılmayız. Araştırma, makine öğrenmesi geliştirme, arka uç, test, dokümantasyon, dağıtım ve MLOps sorumlulukları projeye ve aşamaya göre değişir. Bir kişi birincil sorumlu olabilir; kazanılan bilgi ekip içinde paylaşılır.
 
-### 🧱 Proje seviyelerimiz
+### Proje seviyelerimiz
 
 - **Temel:** Temel becerileri geliştiren küçük çalışmalar.
 - **Deney:** Bir yöntem, teknoloji, model veya hipotezi test eden deneyler.
-- **Proje:** Testleri, dokümantasyonu, mimarisi ve reproducibility'si olan
+- **Proje:** Testleri, dokümantasyonu, mimarisi ve yeniden üretilebilirliği olan
   profesyonel çalışmalar.
-- **Ürün:** Gerçek kullanıcı veya problem hedefleyen; deployment, monitoring, security, cost ve scalability gerektiren sistemler.
+- **Ürün:** Gerçek kullanıcı veya problemi hedefleyen; dağıtım, izleme, güvenlik,
+  maliyet ve ölçeklenebilirlik gerektiren sistemler.
 
 ---
 
@@ -52,15 +46,18 @@ değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde payla
   <tr>
     <td align="center" width="200">
       <img src="/assets/efe.jpg" width="120" height="120" style="border-radius: 50%;" alt="Efe Can Kara"/><br />
-      <b>Efe Can Kara</b>
+      <b>Efe Can Kara</b><br />
+      <sub>Kurucu</sub>
     </td>
     <td align="center" width="200">
       <img src="/assets/yigit.jpg" width="120" height="120" style="border-radius: 50%;" alt="Yiğit Altundağ"/><br />
-      <b>Yiğit Altundağ</b>
+      <b>Yiğit Altundağ</b><br />
+      <sub>Kurucu</sub>
     </td>
     <td align="center" width="200">
       <img src="/assets/mehmet.jpg" width="120" height="120" style="border-radius: 50%;" alt="Mehmet Yıldız"/><br />
-      <b>Mehmet Yıldız</b>
+      <b>Mehmet Yıldız</b><br />
+      <sub>Kurucu</sub>
     </td>
   </tr>
 </table>
@@ -71,13 +68,17 @@ değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde payla
 
 ### 🔬 Çalıştığımız alanlar
 
-- **Algoritmik Optimizasyon ve Karmaşıklık Analizi:** Zaman ve alan karmaşıklığı optimize edilmiş yapılar, graph ve ağ algoritmaları, ileri düzey algoritmik problem çözümü.
-- **Derin Öğrenme ve Sinir Ağı Mimarileri:** Derin sinir ağı mimarileri, model eğitimi, hiperparametre optimizasyonu ve MLOps süreç hatları.
-- **Sistem Otomasyonu ve Veri Mühendisliği:** Uçtan uca veri işleme, veri akış mimarileri ve yapay zeka sistem otomasyonları.
+- **Algoritmik Optimizasyon ve Karmaşıklık Analizi:** Zaman ve alan
+  karmaşıklığı optimize edilmiş yapılar, çizge ve ağ algoritmaları, ileri
+  düzey algoritmik problem çözümü.
+- **Derin Öğrenme ve Sinir Ağı Mimarileri:** Derin sinir ağı mimarileri, model
+  eğitimi, hiperparametre optimizasyonu ve MLOps süreç hatları.
+- **Sistem Otomasyonu ve Veri Mühendisliği:** Uçtan uca veri işleme, veri akış
+  mimarileri ve yapay zeka sistem otomasyonları.
 
-LLM kullanımı serbesttir ancak insan düşüncesinin yerine geçmez. Yaklaşımımız:
-**Think → Attempt → Ask → Verify → Explain**. AI-assisted kodu anlamadan,
-test etmeden veya açıklayamadan merge etmeyiz.
+Büyük dil modeli kullanımı serbesttir ancak insan düşüncesinin yerine geçmez.
+Yaklaşımımız: **Düşün → Dene → Sor → Doğrula → Açıkla**. Yapay zeka destekli
+kodu anlamadan, test etmeden veya açıklayamadan birleştirmeyiz.
 
 ---
 
