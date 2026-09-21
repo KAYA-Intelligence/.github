@@ -28,8 +28,7 @@ evriliriz.
 
 ### 🧭 Çalışma prensiplerimiz
 
-Learning · Curiosity · Quality · Experimentation · Constructive technical
-criticism · Professionalism · Enjoying the process · Knowledge sharing
+Öğrenme · Merak · Kalite · Deneysellik · Yapıcı Teknik Eleştiri · Profesyonellik · Keyifli Geliştirme Süreci · Bilgi Alışverişi
 
 Sabit teknik rollere ayrılmayız. Research, ML development, backend, testing,
 documentation, deployment ve MLOps sorumlulukları projeye ve aşamaya göre
@@ -37,12 +36,11 @@ değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde payla
 
 ### 🧱 Proje seviyelerimiz
 
-- **Foundation:** Temel becerileri geliştiren küçük çalışmalar.
-- **Experiment:** Bir yöntem, teknoloji, model veya hipotezi test eden deneyler.
-- **Project:** Testleri, dokümantasyonu, mimarisi ve reproducibility'si olan
+- **Temel:** Temel becerileri geliştiren küçük çalışmalar.
+- **Deney:** Bir yöntem, teknoloji, model veya hipotezi test eden deneyler.
+- **Proje:** Testleri, dokümantasyonu, mimarisi ve reproducibility'si olan
   profesyonel çalışmalar.
-- **Product:** Gerçek kullanıcı veya problem hedefleyen; deployment, monitoring,
-  security, cost ve scalability gerektiren sistemler.
+- **Ürün:** Gerçek kullanıcı veya problem hedefleyen; deployment, monitoring, security, cost ve scalability gerektiren sistemler.
 
 ---
 
@@ -54,18 +52,15 @@ değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde payla
   <tr>
     <td align="center" width="200">
       <img src="/assets/efe.jpg" width="120" height="120" style="border-radius: 50%;" alt="Efe Can Kara"/><br />
-      <b>Efe Can Kara</b><br />
-      <sub>Co-founder</sub>
+      <b>Efe Can Kara</b>
     </td>
     <td align="center" width="200">
       <img src="/assets/yigit.jpg" width="120" height="120" style="border-radius: 50%;" alt="Yiğit Altundağ"/><br />
-      <b>Yiğit Altundağ</b><br />
-      <sub>Co-founder</sub>
+      <b>Yiğit Altundağ</b>
     </td>
     <td align="center" width="200">
       <img src="/assets/mehmet.jpg" width="120" height="120" style="border-radius: 50%;" alt="Mehmet Yıldız"/><br />
-      <b>Mehmet Yıldız</b><br />
-      <sub>Co-founder</sub>
+      <b>Mehmet Yıldız</b>
     </td>
   </tr>
 </table>
@@ -76,7 +71,7 @@ değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde payla
 
 ### 🔬 Çalıştığımız alanlar
 
-- **Algoritmik Optimizasyon ve Karmaşıklık Analizi:** Zaman ve alan karmaşıklığı optimize edilmiş yapılar, çizge (graph) ve ağ algoritmaları, ileri düzey algoritmik problem çözümü.
+- **Algoritmik Optimizasyon ve Karmaşıklık Analizi:** Zaman ve alan karmaşıklığı optimize edilmiş yapılar, graph ve ağ algoritmaları, ileri düzey algoritmik problem çözümü.
 - **Derin Öğrenme ve Sinir Ağı Mimarileri:** Derin sinir ağı mimarileri, model eğitimi, hiperparametre optimizasyonu ve MLOps süreç hatları.
 - **Sistem Otomasyonu ve Veri Mühendisliği:** Uçtan uca veri işleme, veri akış mimarileri ve yapay zeka sistem otomasyonları.
 
