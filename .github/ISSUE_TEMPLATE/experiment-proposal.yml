@@ -1,0 +1,24 @@
+name: Experiment proposal
+description: Kısa süreli bir teknoloji, yöntem veya hipotez deneyi önerin.
+title: "[Experiment] "
+labels:
+  - experiment
+body:
+  - type: textarea
+    id: hypothesis
+    attributes:
+      label: Hipotez
+      description: Neyi test ediyoruz ve hangi sonucu bekliyoruz?
+    validations:
+      required: true
+  - type: textarea
+    id: method
+    attributes:
+      label: Yöntem ve başarı ölçütü
+      description: Deney nasıl çalıştırılacak ve sonuç nasıl ölçülecek?
+    validations:
+      required: true
+  - type: textarea
+    id: limitations
+    attributes:
+      label: Kapsam ve sınırlamalar

@@ -15,11 +15,34 @@
 
 ---
 
-### 📌 Genel Bakış
+### 📌 Biz kimiz?
 
-**KAYA Intelligence**, karmaşık algoritmik problemleri, derin öğrenme mimarilerini ve yüksek performanslı veri sistemlerini optimize etmeye odaklanmış bağımsız bir mühendislik kolektifidir.
+**KAYA Intelligence**, üç eşit kurucu tarafından yürütülen bağımsız bir AI
+engineering ekibidir. Birlikte fikir üretir, farklı AI/ML problemlerini
+deneyerek öğrenir ve uygun fikirleri gerçek, profesyonel projelere dönüştürürüz.
 
-Karmaşıklıktan arındırılmış, teorik açıdan sağlam ve üretim ortamına (production) hazır yapay zeka çözümleri geliştirmeyi hedefliyoruz.
+Uzun vadeli yönümüz Learning/Project Team'den public portfolio ve open
+source'a, oradan profesyonel AI engineering team ve gerektiğinde ürünlere
+doğru ilerlemektir. Bu aşamalar katı değildir; fırsatlara ve projelere göre
+evriliriz.
+
+### 🧭 Çalışma prensiplerimiz
+
+Learning · Curiosity · Quality · Experimentation · Constructive technical
+criticism · Professionalism · Enjoying the process · Knowledge sharing
+
+Sabit teknik rollere ayrılmayız. Research, ML development, backend, testing,
+documentation, deployment ve MLOps sorumlulukları projeye ve aşamaya göre
+değişir. Bir kişi primary owner olabilir; kazanılan bilgi ekip içinde paylaşılır.
+
+### 🧱 Proje seviyelerimiz
+
+- **Foundation:** Temel becerileri geliştiren küçük çalışmalar.
+- **Experiment:** Bir yöntem, teknoloji, model veya hipotezi test eden deneyler.
+- **Project:** Testleri, dokümantasyonu, mimarisi ve reproducibility'si olan
+  profesyonel çalışmalar.
+- **Product:** Gerçek kullanıcı veya problem hedefleyen; deployment, monitoring,
+  security, cost ve scalability gerektiren sistemler.
 
 ---
 
@@ -48,11 +71,15 @@ Karmaşıklıktan arındırılmış, teorik açıdan sağlam ve üretim ortamın
 
 ---
 
-### 🔬 Temel Yetkinlikler
+### 🔬 Çalıştığımız alanlar
 
 - **Algoritmik Optimizasyon ve Karmaşıklık Analizi:** Zaman ve alan karmaşıklığı optimize edilmiş yapılar, çizge (graph) ve ağ algoritmaları, ileri düzey algoritmik problem çözümü.
 - **Derin Öğrenme ve Sinir Ağı Mimarileri:** Derin sinir ağı mimarileri, model eğitimi, hiperparametre optimizasyonu ve MLOps süreç hatları.
 - **Sistem Otomasyonu ve Veri Mühendisliği:** Uçtan uca veri işleme, veri akış mimarileri ve yapay zeka sistem otomasyonları.
+
+LLM kullanımı serbesttir ancak insan düşüncesinin yerine geçmez. Yaklaşımımız:
+**Think → Attempt → Ask → Verify → Explain**. AI-assisted kodu anlamadan,
+test etmeden veya açıklayamadan merge etmeyiz.
 
 ---
 

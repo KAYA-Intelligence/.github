@@ -1,0 +1,24 @@
+name: Bug report
+description: Beklenmeyen davranışı veya hatayı bildirin.
+title: "[Bug] "
+labels:
+  - bug
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Hata açıklaması
+      description: Beklenen ve gerçekleşen davranışı açıklayın.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Tekrarlama adımları
+      description: Gerekli ortam, komutlar ve örnek girdiler.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Ortam ve ek bağlam

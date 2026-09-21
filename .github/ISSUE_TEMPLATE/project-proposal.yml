@@ -1,0 +1,32 @@
+name: Project proposal
+description: Profesyonel bir Project veya Product çalışması önerin.
+title: "[Project] "
+labels:
+  - proposal
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem ve hedef
+      description: Hangi problemi, kim için ve neden çözmek istiyoruz?
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Kapsam ve başarı ölçütü
+      description: Dahil olanlar, olmayanlar ve ölçülebilir başarı ölçütleri.
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Riskler ve bilinmeyenler
+      description: Teknik, veri, güvenlik veya operasyonel riskler.
+  - type: textarea
+    id: level
+    attributes:
+      label: Önerilen seviye
+      value: Project
+    validations:
+      required: true
